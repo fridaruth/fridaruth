@@ -1,1 +1,1 @@
-<h1 align= "center"> # Hej! 👋 Jag heter Frida. </h1>
+<h1 align= "center"> Hej! 👋 Jag heter Frida. </h1>
